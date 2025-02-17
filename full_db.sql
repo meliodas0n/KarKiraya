@@ -48,8 +48,8 @@ CREATE TABLE CAR_RENT (
 	color VARCHAR(50),
 	top_speed INT NOT NULL,
 	milage INT NOT NULL,
-	status VARCHAR(100),
 	rent_price INT NOT NULL
+	status VARCHAR(100),
 );
 
 INSERT INTO CAR_RENT VALUES ('1','Tata','Nexon','Orange','100','22','2800','Available'),
