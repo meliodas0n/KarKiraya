@@ -72,7 +72,7 @@ INSERT INTO CAR_RENT VALUES ('1','Tata','Nexon','Orange','100','22','2800','Avai
 ('18','Maruti Suzuki','XL6','Blue','100','18','2850','Available'),
 ('19','Hyundai','Creta','Black','120','21','3800','Available'),
 ('20','Hyundai','Venue','Blue','100','17','2050','Available'),
-('21','Hyundai','Verna','Black','100','23',3200,'Available'),
+('21','Hyundai','Verna','Black','100','23','3200','Available'),
 ('22','Hyundai','Alcazar','White','100','17','4850','Available'),
 ('23','Hyundai','WER3245 Accent','Yellow','110','16','3800','Unavailable'),
 ('24','MERCEDEZ BENZ','GLA','White','181','12','29000','Unavailable'),
